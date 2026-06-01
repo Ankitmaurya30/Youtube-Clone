@@ -23,7 +23,7 @@ youtube-clone/<br>
 │── js/<br>
 │   └── script.js<br>
 │── components/        
-│── pages/<br>    
+│── pages/    
 │── assets/<br>
 │── images/<br>
 └── README.md
