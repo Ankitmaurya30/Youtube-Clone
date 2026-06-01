@@ -23,14 +23,14 @@ youtube-clone/<br>
 │── js/<br>
 │   └── script.js<br>
 │── components/        
-│── pages/    
-│── assets/
-│── images/
+│── pages/<br>    
+│── assets/<br>
+│── images/<br>
 └── README.md
 
 ⚙️ Installation & Setup:<br>
 1. Clone the repository:
-git clone https://github.com/your-username/youtube-clone.git
+git clone https://github.com/Ankitmaurya30/Youtube-Clone
 2. Navigate to the project:
 cd youtube-clone
 3. Run the project:
